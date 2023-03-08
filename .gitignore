@@ -1,0 +1,10 @@
+ApiProject/bin
+ApiProject/obj
+Config/bin
+Config/obj
+Entities/bin
+Entities/obj
+Services/bin
+Services/obj
+Metronic/node_modules
+Metronic/obj
